@@ -14,6 +14,11 @@
   z-index: 0;
 }
 
+#image {
+ margin-top: 15px; 
+  
+}
+
 nav {
   font-family: 'Open Sans Condensed', sans-serif;
   position: absolute;
