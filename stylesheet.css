@@ -27,6 +27,12 @@ nav {
   z-index: 20;    
 }
 
+nav:hover {
+ background-color: #2F4F4F;
+  color: #66CCCC;
+  
+}
+
 nav ul ul {
   display: none;
 }
