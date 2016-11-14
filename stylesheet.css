@@ -27,7 +27,7 @@ nav {
   z-index: 20;    
 }
 
-nav li li:hover {
+#Home:hover {
  background-color: #2F4F4F;
   color: #66CCCC;
   
